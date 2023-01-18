@@ -1,10 +1,11 @@
 <template>
     <div>
-        SEARCH ON PORT 8080
+        SEARCH update ON PORT 3000
     </div>
 </template>
+
 <script>
-export default{
-    name:"Search"
+export default {
+    name: "Search"
 }
 </script>

@@ -1,10 +1,10 @@
 <template>
     <div>
-        RESULT ON PORT 8080
+        RESULT ON PORT 3000
     </div>
 </template>
 <script>
-export default{
-    name:"Result"
+export default {
+    name: "Result"
 }
 </script>
